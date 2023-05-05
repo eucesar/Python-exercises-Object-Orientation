@@ -9,7 +9,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/Python-logic-exercises-review.git
+https://github.com/eucesar/Python-exercises-Object-Orientation.git
 ```
 
 ## Cesar
